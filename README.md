@@ -20,6 +20,8 @@ Este repositório contém meus estudos e exercícios sobre Programação Orienta
 ## 🤝 Contribuição
 Sugestões e melhorias são sempre bem-vindas! Fique à vontade para abrir issues ou enviar pull requests.
 
-#### Meu contato / My contact
+---
+
+### Meu contato / My contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-222386235/)
 
