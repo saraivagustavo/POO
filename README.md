@@ -14,8 +14,8 @@ Este repositório contém meus estudos e exercícios sobre Programação Orienta
 - Projetos práticos
 
 ## 🚀 Tecnologias Utilizadas
-- Linguagem: Java
-- IDEs recomendadas: IntelliJ IDEA, NetBeans e VS Code com extensão Java.
+- **Linguagem:** Java
+- **IDEs recomendadas:** IntelliJ IDEA, NetBeans e VS Code com extensão Java.
 
 ## 🤝 Contribuição
 Sugestões e melhorias são sempre bem-vindas! Fique à vontade para abrir issues ou enviar pull requests.
