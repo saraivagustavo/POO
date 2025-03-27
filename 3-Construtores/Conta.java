@@ -64,4 +64,8 @@ public class Conta {
         this.limite = 200;
         System.out.println("Conta criada com sucesso!");
     }
+
+    public Conta() {
+        //TODO Auto-generated constructor stub
+    }
 }

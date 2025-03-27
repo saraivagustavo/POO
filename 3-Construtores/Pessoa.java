@@ -2,6 +2,7 @@ public class Pessoa {
     String nome, cpf;
     Data dtNasc;
     char sexo;
+    public int idade;
 
     void idadePessoa(Data dtHoje){
         int idade = dtHoje.ano - this.dtNasc.ano;
@@ -16,5 +17,9 @@ public class Pessoa {
         this.cpf = cpf;
         this.dtNasc = dtNasc;
         this.sexo = sexo;
+    }
+
+    public Pessoa() {
+        //TODO Auto-generated constructor stub
     }
 }

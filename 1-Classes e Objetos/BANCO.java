@@ -1,13 +1,13 @@
 public class BANCO {
 
     public static void main(String[] args) {
-        Pessoas p1 = new Pessoas();
+        Pessoa p1 = new Pessoa();
         p1.nome = "Saraiva";
         p1.idade = 20;
         p1.sexo = 'M';
         p1.cpf = "123.456.789-00";
         
-        Pessoas p2 = new Pessoas();
+        Pessoa p2 = new Pessoa();
         p2.nome = "Albani";
         p2.idade = 21;
         p2.sexo = 'M';
