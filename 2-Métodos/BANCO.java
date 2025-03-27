@@ -33,7 +33,7 @@ public class BANCO {
         c1.sacar(100);
         c1.depositar(100);
 
-        for(int i = 0; i < 5; i++) {
+        for(int i = 1; i < 30; i++) {
             c1.chequeEspecial(0.5);
             System.out.println("Saldo após " + i + " dias: R$" + c1.saldo + "\n");
         }
