@@ -4,14 +4,10 @@ Este repositório contém meus estudos e exercícios sobre Programação Orienta
 
 ## 📁 Estrutura do Repositório
 
-- **IntroducaoJAVA:** Exercícios introdutórios sobre a linguagem Java e primeiros conceitos de POO.
-
-À medida que o aprendizado avançar, serão adicionadas mais pastas com conteúdos como:
-- Classes e Objetos
-- Herança
-- Polimorfismo
-- Encapsulamento
-- Projetos práticos
+1. **Classes e Objetos** - Definição e manipulação de classes e objetos.
+2. **Métodos** - Implementação e uso de métodos em Java.
+3. **Construtores** - Uso de construtores para inicialização de objetos.
+4. **Herança** - Aplicação do conceito de herança na POO.
 
 ## 🚀 Tecnologias Utilizadas
 - **Linguagem:** Java
@@ -24,4 +20,3 @@ Sugestões e melhorias são sempre bem-vindas! Fique à vontade para abrir issue
 
 ### Meu contato / My contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-222386235/)
-
