@@ -24,9 +24,9 @@ public class BANCO {
         }
         p1c1.extrato();
 
-        Poupanca p1c2 = new Poupanca("2222-2", p2, new Data(1, 1, 2021), g);
-        p1c2.depositar(500);
-        p1c2.rendimentos(5);
-        p1c2.extrato();
+        Poupanca p2c2 = new Poupanca("2222-2", p2, new Data(1, 1, 2021), g);
+        p2c2.depositar(500);
+        p2c2.rendimentos(5);
+        p2c2.extrato();
     }
 }
